@@ -12,8 +12,8 @@ A simple and efficient task management application built using `tkinter` for the
 
 ## Screenshots
 
-![Main Window](path_to_screenshot1.png)
-![Add Task Window](path_to_screenshot2.png)
+![Main Window](Screenshot_1.png)
+![Add Task Window](Screenshot_2.png)
 
 
 ## Setup & Installation
