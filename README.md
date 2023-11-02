@@ -27,12 +27,6 @@ A simple and efficient task management application built using `tkinter` for the
 Contributions are welcome! If you have a feature request, bug report, or a new idea, feel free to open an issue or submit a pull request.
 
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for more information.
-
-
-![GitHub](https://img.shields.io/github/license/ThomasVasileiadis/TaskManager)
 
 
 
